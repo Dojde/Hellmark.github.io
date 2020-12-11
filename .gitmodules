@@ -1,0 +1,3 @@
+[submodule "haskell-algorithms"]
+	path = haskell-algorithms
+	url = https://github.com/Dojde/haskell-algorithms.git
