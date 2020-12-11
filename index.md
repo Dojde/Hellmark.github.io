@@ -1,3 +1,3 @@
 layout: page
 title: "Index Page"
-permalink: https://octocat.github.io/
+permalink: https://Dojde.github.io/index
