@@ -1,9 +1,1 @@
-
-title: Johan Hellmark
-description: A portfolio.
-
-–--
-layout: page
-title: "Test"
-description: "TESTING THIS"
----
+theme: jekyll-theme-minimal
