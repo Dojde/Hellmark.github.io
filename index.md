@@ -1,3 +1,1 @@
-layout: page
-title: "Index Page"
-permalink: https://Dojde.github.io/index
+# This is my main page.
