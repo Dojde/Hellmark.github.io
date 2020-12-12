@@ -8,6 +8,9 @@ I am currently on my 4th year. Currently I am performing my master in which I co
 ## Private projects
 I have been doing some own projects too. Maybe I can interest you in a water pump for my tomatoes? Or how about some algorithms common CS-related problem written in [haskell]({% link _posts/2020-12-12-haskell-algorithms.md %})? Or would you rather want to see a website for register workouts? 
 
+## Previous Work Experience 
+
+
 ## Other 
 
 <ul>
