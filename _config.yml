@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: [Johan Hellmark]
+description: [A portfolio.]
 baseurl: ""
 source: .
 defaults:
