@@ -4,10 +4,10 @@ I'm glad that you found your way to my page. If you want to learn more [about me
 
 Here you will be able to find examples of projects that I have performed. Just choose a categoroy of your intrest and enjoy! 
 
-# [Education] 
+# Education
 I am currently on my 4th year. Currently I am doing my master in which I combine computer science and statistics. 
 
-# [Private projects]
+# Private projects
 
 
 
