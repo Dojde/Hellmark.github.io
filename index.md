@@ -1,8 +1,8 @@
 # Welcome to my portfolio! 
 
-I'm glad that you found your way to my page. Here you will be able to find examples of projects that I have performed and learn more about me.
+I'm glad that you found your way to my page. Here you will be able to find examples of projects that I have performed.
 
-More information about me can be found [here]({% link about.md %})
+Is the introduction of me too breif? Learn more [about me]({% link about.md %}).
 
 <ul>
   {% for post in site.posts %}
