@@ -1,8 +1,6 @@
-# Welcome to my portfolio! 
+# Welcome! 
 
-### I'm glad that you found your way to my page. Here you can learn more [about me]({% link about.md %}).
-
-This is the main page from which you can press any cathegory of interest to find out more about it. 
+### I'm glad that you found your way to my portfolio. Here you can learn more [about me]({% link about.md %}).
 
 ## Education
 I am currently on my 4th year. Currently I am performing my master in which I combine (1) Software Intensive Systems with (2) Risk Management (Statistics). Some of the courses I have completed are (1) Software Development for Large Systems and Configuration management, (2) Stationary Stochastic Processes and Time Series Analysis. 
