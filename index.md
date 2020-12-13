@@ -8,9 +8,9 @@ title: Portfolio
 --- 
 
 # Education
-I am currently studying my fourth year of **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is a combination of two main areas:  
+I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. It is a combination of two areas:  
 1. Software Intensive Systems 
-2. Risk Management (statistics)
+2. Risk Management (Statistics)
 
 Read more about the my education and the courses I've taken [here]. 
 
@@ -35,5 +35,6 @@ View more detailed information about all my private projects [here].
 --- 
 
 ## Hornable Mentions
+
 - Over four year as a coach for a local handball team. 
 
