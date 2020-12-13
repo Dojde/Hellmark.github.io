@@ -17,7 +17,7 @@ Read more about the my education and the courses I've taken [here].
 ---
 
 # Work Experience 
-- [Finn Inn]({% link _posts/2020-12-12-first-post.md %}) 2016-Present
+- [Waiter at Finn Inn]({% link _posts/2020-12-12-first-post.md %}) - 2016-Present
 - Axis 
 
 ---
