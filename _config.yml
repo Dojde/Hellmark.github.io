@@ -11,5 +11,3 @@ defaults:
     values:
       layout: "default"
 
-github:
-  is_project_page: false # To enable checking github profile
