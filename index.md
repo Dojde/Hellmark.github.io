@@ -18,7 +18,8 @@ Read more about the my education and the courses I've taken [here].
 
 # Work Experience 
 - [Waiter at Finn Inn]({% link _posts/2020-12-13-Finn-Inn.md %}) - 2016-Present
-- Axis 
+- [Assistant to engineers at Axis Communication]({% link _posts/2020-12-13-Axis.md %}) - 2016-2018
+- [Warehouse worker at Tetra Pak Technical Serice AB]({% link _posts/2020-12-13-Tetra-Pak.md %}) - 2015
 
 ---
 
