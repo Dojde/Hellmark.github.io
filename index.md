@@ -23,20 +23,9 @@ Read more about the my education and the courses I've taken [here].
 ---
 
 # Private projects
-I have been doing some own projects too. May I intrest you in:
-- a water pump for my tomatoes?
-- some algorithms common CS-related problem written in [haskell]({% link _posts/2020-12-12-haskell-algorithms.md %})? 
-- a website for register workouts? 
+I have been doing some own projects too. May I intrest you in?
+- a water pump for my tomatoes.
+- some algorithms common CS-related problem written in [haskell]({% link _posts/2020-12-12-haskell-algorithms.md %}).
+- a website for register workouts.
 
 View more detailed information about all my private projects [here]. 
-
-## Other 
-
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
