@@ -10,3 +10,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+
+github:
+  is_project_page: false # To enable checking github profile
