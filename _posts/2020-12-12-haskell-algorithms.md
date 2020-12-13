@@ -3,7 +3,7 @@ layout: default
 title: "Haskell Algorithms"
 ---
 
-# Haskell Algorithms
+# Algorithms in Haskell
 
 Haskell is a purely functional programming language. Learing haskell requires one to change the way of thinking about programming and adapt a new paradigm.
 
