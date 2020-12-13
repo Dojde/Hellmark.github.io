@@ -24,17 +24,12 @@ My work expereince has taught me a lot of valuable skills. I have worked in mult
 
 ---
 
-# Private projects
+# Private Projects
 One can learn a lot from perfoming private projects. I have collect a sample of my private projects on this site, to mention a few: 
-- a water pump for my tomatoes.
-- some algorithms common CS-related problem written in [haskell]({% link _posts/2020-12-12-haskell-algorithms.md %}).
-- a website for register workouts.
+- Some algorithms common CS-related problem written in [haskell]({% link _posts/2020-12-12-haskell-algorithms.md %}).
+- A website for register workouts.
+- More than four years as a coach for the local handball team. 
 
 View more detailed information about all my private projects [here]. 
 
 --- 
-
-## Hornable Mentions
-
-- Over four year as a coach for a local handball team. 
-
