@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Johan Hellmark
-description: [A portfolio.]
+description: Contact me at Johan.hellmark50@gmail.com
+author: Johan Hellmark 
 baseurl: ""
 source: .
 defaults:
