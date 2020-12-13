@@ -8,7 +8,7 @@ title: Portfolio
 --- 
 
 # Education
-I am currently styudying my fourth year of *Industrial Engineering and Management* at the Faculty of Engineering, Lund University. My master is a combination of two main areas:  
+I am currently studying my fourth year of **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is a combination of two main areas:  
 1. Software Intensive Systems 
 2. Risk Management (statistics)
 
@@ -17,6 +17,7 @@ Read more about the my education and the courses I've taken [here].
 ---
 
 # Work Experience 
+My work expereince has taught me a lot of valuable skills. I have worked in multiple sectors with different requirements.
 - [Waiter at Finn Inn]({% link _posts/2020-12-13-Finn-Inn.md %}) - 2016-Present
 - [Assistant to engineers at Axis Communication]({% link _posts/2020-12-13-Axis.md %}) - 2016-2018
 - [Warehouse worker at Tetra Pak Technical Serice AB]({% link _posts/2020-12-13-Tetra-Pak.md %}) - 2015
@@ -24,9 +25,15 @@ Read more about the my education and the courses I've taken [here].
 ---
 
 # Private projects
-I have been doing some own projects too. May I intrest you in?
+One can learn a lot from perfoming private projects. I have collect a sample of my private projects on this site, to mention a few: 
 - a water pump for my tomatoes.
 - some algorithms common CS-related problem written in [haskell]({% link _posts/2020-12-12-haskell-algorithms.md %}).
 - a website for register workouts.
 
 View more detailed information about all my private projects [here]. 
+
+--- 
+
+## Hornable Mentions
+- Over four year as a coach for a local handball team. 
+
