@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Johan Hellmark
-description: Contact me at: Johan.hellmark50@gmail.com
+description: Contact me at Johan.hellmark50@gmail.com
 author: Johan Hellmark 
 baseurl: ""
 source: .
@@ -11,3 +11,5 @@ defaults:
     values:
       layout: "default"
 
+github:
+  is_project_page: false # To enable checking github profile
