@@ -27,7 +27,7 @@ My work expereince has taught me a lot of valuable skills. I have worked in mult
 # Private Projects
 One can learn a lot from perfoming private projects. I have collect a sample of my private projects on this site, to mention a few: 
 - [Algorithms]({% link _posts/2020-12-12-haskell-algorithms.md %}), written in haskell, solving CS-related problems.
-- A website for registering workouts, called [LogMyExercise]({% link _posts/2020-1-23-LogMyExercise.md %}).
+- A website for registering workouts, called [LogMyExercise]({% link _posts/2021-1-23-LogMyExercise.md %}).
 - More than four years as a coach for the local handball team. 
 
 View more detailed information about all my private projects [here]. 
