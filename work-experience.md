@@ -7,7 +7,7 @@ permalink: /experience/
 
 ---
 
-## Assistant to engineers  
+## Assistant To Engineers  
 ### @Axis Communications
 > 2016-2018
 
@@ -49,7 +49,7 @@ What do you do when there are more guests than expected? Or if someone the break
 To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
 
 ---
-## Warehouse worker 
+## Warehouse Worker 
 ### @Tetra Pak Technical Service Ab  
 > 2015
 
