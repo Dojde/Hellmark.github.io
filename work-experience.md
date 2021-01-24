@@ -7,7 +7,8 @@ permalink: /experience/
 
 ---
 
-## Assistant to engineers at Axis Communications 
+# Assistant to engineers  
+## @Axis Communications
 > 2016-2018
 
 Axis Communication develops network cameras for video surveillance. 
@@ -29,7 +30,8 @@ how I could facilitate their work and how to communicate in a good manner.
 Many of my projects were performed with other part-time workers through which I learned how to tackle coordination and communication in software development. 
  
 ---
-## Waiter at Restaurant Finn Inn 
+# Waiter 
+## @Restaurant Finn Inn 
 > 2016-Present
 
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
@@ -47,7 +49,8 @@ What do you do when there are more guests than expected? Or if someone the break
 To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
 
 ---
-## Warehouse worker at Tetra Pak Technical Service Ab  
+# Warehouse worker 
+## @Tetra Pak Technical Service Ab  
 > 2015
 
 During the summer of 2015 I performed warehouse work at Tetra Pak Technical Service Ab. 
