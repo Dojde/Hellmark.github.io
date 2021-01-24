@@ -25,7 +25,7 @@ Read more about my work experience [here]({% link work-experience.md %}).
 ---
 
 # Private Projects
-I have collect a sample of my private projects. The projects range from private software projects to engagement in a local youth sports team.
+I have collect a sample of my private projects. The projects range from software projects to engagement in a local youth sports team.
 
 View more detailed information about all my private projects [here]. 
 
