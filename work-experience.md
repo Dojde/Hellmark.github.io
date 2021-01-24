@@ -30,7 +30,7 @@ how I could facilitate their work and how to communicate in a good manner.
 Many of my projects were performed with other part-time workers through which I learned how to tackle coordination and communication in software development. 
  
 ---
-# Waiter 
+## Waiter 
 ### @Restaurant Finn Inn 
 > 2016-Present
 
@@ -49,7 +49,7 @@ What do you do when there are more guests than expected? Or if someone the break
 To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
 
 ---
-# Warehouse worker 
+## Warehouse worker 
 ### @Tetra Pak Technical Service Ab  
 > 2015
 
