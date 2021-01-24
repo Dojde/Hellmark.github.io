@@ -8,18 +8,18 @@ title: Portfolio
 --- 
 
 # Education
-I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. I have chosen a combination of two areas: Software Intensive Systems and Risk Management (Statistics).
+I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is composed of two main areas: Software Intensive Systems and Risk Management (Statistics).
 
 Read more about the my education and the courses I've taken [here]. 
-
 ---
 
 # Work Experience 
 My work expereince has taught me a lot of valuable skills. I have worked in multiple sectors with different requirements.
-- [Waiter at Finn Inn]({% link _posts/2020-12-13-Finn-Inn.md %}) - 2016-Present
-- [Assistant to engineers at Axis Communication]({% link _posts/2020-12-13-Axis.md %}) - 2016-2018
-- [Warehouse worker at Tetra Pak Technical Serice AB]({% link _posts/2020-12-13-Tetra-Pak.md %}) - 2015
+- Waiter at Finn Inn - 2016-Present
+- Assistant to engineers at Axis Communication - 2016-2018
+- Warehouse worker at Tetra Pak Technical Serice AB - 2015
 
+Read more about my work experience here [here]. 
 ---
 
 # Private Projects
