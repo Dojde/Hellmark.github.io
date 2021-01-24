@@ -8,7 +8,7 @@ title: Portfolio
 --- 
 
 # Education
-I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is composed of two main areas, *Software Intensive Systems and Risk Management (Statistics)*.
+I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is composed of *Software Intensive Systems and Risk Management (Statistics)*.
 
 Read more about the my education and the courses I've taken [here]. 
 
