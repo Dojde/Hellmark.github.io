@@ -8,7 +8,7 @@ permalink: /experience/
 ---
 
 ## Assistant To Engineers  
-### @Axis Communications
+### @[Axis Communications](https://www.axis.com/)
 > 2016-2018
 
 Axis Communication develops network cameras for video surveillance. 
@@ -31,7 +31,7 @@ Many of my projects were performed with other part-time workers through which I 
  
 ---
 ## Waiter 
-### @Restaurant Finn Inn 
+### @[Restaurant Finn Inn](https://www.finninn.se/)
 > 2016-Present
 
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
@@ -50,7 +50,7 @@ To handle these situations well you must have a good structure, good communicati
 
 ---
 ## Warehouse Worker 
-### @Tetra Pak Technical Service Ab  
+### @[Tetra Pak Technical Service Ab](https://www.tetrapak.com/)
 > 2015
 
 During the summer of 2015 I performed warehouse work at Tetra Pak Technical Service Ab. 
