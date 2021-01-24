@@ -19,7 +19,7 @@ My work expereince has taught me a lot of valuable skills. I have worked in mult
 - Assistant to engineers at Axis Communication - 2016-2018
 - Warehouse worker at Tetra Pak Technical Serice AB - 2015
 
-Read more about my work experience here [here]. 
+Read more about my work experience here [here]({% link work-experience.md %}). 
 ---
 
 # Private Projects
