@@ -15,8 +15,8 @@ Within this master I have read a couple of more technical courses such as
 - Object-Oriented Modelling and Design 
 - Algorithms, data structures and complexity
 - Real time programming
-- Simulation 
 - Database Technology
+- Simulation 
 
 Except for the more technical courses I have also taken courses which are more focused on the software development process.
 - Software Development for Large Systems
