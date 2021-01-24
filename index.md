@@ -29,5 +29,4 @@ One can learn a lot from perfoming private projects. I have collect a sample of 
 - More than four years as a coach for the local handball team. 
 
 View more detailed information about all my private projects [here]. 
-
 --- 
