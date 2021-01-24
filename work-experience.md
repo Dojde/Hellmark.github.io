@@ -3,12 +3,12 @@ title: Work Experience
 permalink: /experience/
 
 ---
-# __Work Experience__
+# Work Experience
 
 ---
 
-# Assistant to engineers  
-## @Axis Communications
+## Assistant to engineers  
+### @Axis Communications
 > 2016-2018
 
 Axis Communication develops network cameras for video surveillance. 
@@ -31,7 +31,7 @@ Many of my projects were performed with other part-time workers through which I 
  
 ---
 # Waiter 
-## @Restaurant Finn Inn 
+### @Restaurant Finn Inn 
 > 2016-Present
 
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
@@ -50,7 +50,7 @@ To handle these situations well you must have a good structure, good communicati
 
 ---
 # Warehouse worker 
-## @Tetra Pak Technical Service Ab  
+### @Tetra Pak Technical Service Ab  
 > 2015
 
 During the summer of 2015 I performed warehouse work at Tetra Pak Technical Service Ab. 
