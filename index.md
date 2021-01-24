@@ -8,7 +8,7 @@ title: Portfolio
 --- 
 
 # Education
-I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is composed of two main areas: Software Intensive Systems and Risk Management (Statistics).
+I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is composed of two main areas, **Software Intensive Systems** and **Risk Management** (Statistics).
 
 Read more about the my education and the courses I've taken [here]. 
 
@@ -20,15 +20,13 @@ My work expereince has taught me a lot of valuable skills. I have worked in mult
 - Assistant to engineers at Axis Communication - 2016-2018
 - Warehouse worker at Tetra Pak Technical Serice AB - 2015
 
-Read more about my work experience here [here]({% link work-experience.md %}). 
+Read more about my work experience [here]({% link work-experience.md %}). 
 
 ---
 
 # Private Projects
-One can learn a lot from perfoming private projects. I have collect a sample of my private projects on this site, to mention a few: 
-- [Algorithms]({% link _posts/2020-12-12-haskell-algorithms.md %}), written in haskell, solving CS-related problems.
-- A website for registering workouts, [LogMyExercise]({% link _posts/2021-1-23-LogMyExercise.md %}).
-- More than four years as a coach for the local handball team. 
+One can learn a lot from perfoming private projects. I have collect a sample of my private projects on this site. The projects range from private software projects to engagement in a local youth sports team. 
+
 
 View more detailed information about all my private projects [here]. 
 
