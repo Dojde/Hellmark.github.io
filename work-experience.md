@@ -3,7 +3,7 @@ title: Work Experience
 permalink: /experience/
 
 ---
-# Work Experience
+# __Work Experience__
 
 ---
 
@@ -13,7 +13,7 @@ permalink: /experience/
 Axis Communication develops network cameras for video surveillance. 
 I was working as an assistant to a group of engineers and had a wide range of tasks, from automation of tests to collecting video material. 
 
-## Improved Technical Knowledge
+### Improved Technical Knowledge
 During my years at Axis my technical knowledge was furthered. I was creating scripts that were reviewed and used by the engineers at Axis which helped me 
 improve my ability in programming. A few example of completed tasks are:
 - Automation of radar measurements including components such as step motors and spectrum analyzers. 
@@ -21,11 +21,11 @@ improve my ability in programming. A few example of completed tasks are:
 - Development of software used for collecting video material and changing camera settings.
 - A comparative study to investigate differences in sales figures.
 
-## Insight in the work of an engineer
+### Insight in the work of an engineer
 I got a first hand experince of how the engineers were working and the workflows used at Axis. I learned about the methodologies they use to solve problems,
 how I could facilitate their work and how to communicate in a good manner.
 
-## Software development in groups 
+### Software development in groups 
 Many of my projects were performed with other part-time workers through which I learned how to tackle coordination and communication in software development. 
  
 ---
