@@ -5,6 +5,8 @@ permalink: /experience/
 ---
 # Work Experience
 
+---
+
 ## Assistant to engineers at Axis Communications 
 > 2016-2018
 
