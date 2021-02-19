@@ -9,10 +9,11 @@ permalink: /projects/
 ## Website for Workout Registering
 
 ## Water Pump
+Since I got tired of giving water to my tomatoes and since they limited the amount of time one could spend away from home i decided to build a watering system for my plants. I used an esp as an client which controlled the pump and gained expreinse with soldering, relay cards, circut diagrams and much more. As a challenge I decided to implement the server side from scratch which included buliding an server with express which communicated with the esp through an mqtt broker, logged the values with InfluxDB, presented infomation with grafana and automated the watering with node-red.
 
 ## Haskell Algorithms 
 
-## Litterature 
+## Literature 
 My favourite genre is non-fiction. I deeply appreciate a well-written book which manages to explain the underlying reason of why things are as they are and presents new perspectives on everyday things. Therefore, some of my favourite subjects to read about in my sparetime have been psychology and behavioral economics. 
  
 ## Engagement in local handball team
