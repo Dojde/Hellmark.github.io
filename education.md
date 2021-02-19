@@ -30,3 +30,15 @@ From this master (which officically is called Financial Engineering and Risk Man
 - Stationary Stochastic Processes
 - Mathematical Statistics, Time Series Analysis
 - Monte Carlo and Empirical Methods for Stochastic Inference
+
+---
+
+## Other Courses
+In addition to my degree in Industrial Engineering and Management I have read three courses at Lund University namely
+- Rhetoric, 15 credits
+- Internet Based Introduction to Law with Multimedia Lectures, 15 credits
+- Project Management Knowledge Areas, 15 credits
+
+Further I have taken courses outside the university 
+- Gå-Före! A leadership education for young leaders (https://forebild.se/ga-fore/) 
+- TS1 - A 72-hour course given by the Swedish Handball Federation to improve the leadership of youth handball coaches
