@@ -1,9 +1,6 @@
 ---
 title: Portfolio
 layout: splash
-classes:
-  - landing
-  - dark-theme
 ---
 ## Welcome! 
 
