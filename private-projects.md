@@ -1,9 +1,9 @@
 ---
 title: Projects
 permalink: /projects/
-  header:
-    overlay_image: /assets/images/moon_dark.jpg
-  excerpt: "A few samples of my private projects."
+header:
+  overlay_image: /assets/images/moon_dark.jpg
+excerpt: "A few samples of my private projects."
 
 workout_website:
   - image_path: assets/images/book-1.jpg
