@@ -11,14 +11,12 @@
     excerpt: Software projectsm engagement in local youth sports team and much more.
   - image_path: assets/images/businessman-310819_1280.png
     title: "Education"
-    actions:
     url: /education/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: M.Sc. Industrial Engineering and Management.  Focus: mathematics and software development. 
+    excerpt: M.Sc. Industrial Engineering and Management. \Focus: mathematics and software development. 
   - image_path: assets/images/businessman-310819_1280.png
     title: "Work Experience"
-    actions:
     url: /experience/
     btn_label: "Read More"
     btn_class: "btn--primary"
