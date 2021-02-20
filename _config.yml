@@ -5,6 +5,8 @@ description: "Contact me at: <br /> Johan.hellmark50@gmail.com"
 author: Johan Hellmark 
 baseurl: ""
 source: .
+plugins:
+  - jekyll-include-cache
 defaults:
   -
     scope:
