@@ -1,4 +1,6 @@
-
+---
+layout: single
+---
 
 ## Welcome! 
 #### I'm glad that you found your way to my portfolio. Here you can learn more about me and view some of my private projects.
