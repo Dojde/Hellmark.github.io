@@ -30,7 +30,6 @@ literature:
     title: "Literature"
     excerpt: "My favourite genre is non-fiction. I deeply appreciate a well-written book which manages to explain the underlying reason of why things are as they are and presents new perspectives on everyday things. Therefore, some of my favourite subjects to read about in my sparetime have been psychology and behavioral economics."
 ---
-# Private Projects
 
 {% include feature_row id="workout_website" type="left" %}
 {% include feature_row id="literature" type="right" %}
