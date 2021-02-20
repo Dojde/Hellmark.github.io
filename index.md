@@ -8,7 +8,7 @@
     url: /projects/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: A sample of projects ranging from software to engagement in a local youth sports team.
+    excerpt: From from software to engagement in local youth sports team.
   - image_path: assets/images/businessman-310819_1280.png
     title: "Education"
     actions:
