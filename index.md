@@ -15,7 +15,7 @@
       btn_label: "Read More"
       btn_class: "btn--primary"
       excerpt: "M.Sc. Industrial Engineering and Management. Focus: mathematics and software development." 
-    - image_path: assets/images/businessman-310819_1280.png
+    - image_path: assets/images/graduation-student.svg
       title: "Work Experience"
       url: /experience/
       btn_label: "Read More"
