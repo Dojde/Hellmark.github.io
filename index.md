@@ -4,7 +4,7 @@
   header:
     overlay_image: /assets/images/earth.jpg
     excerpt: "Vestibulum gravida lorem ullamcorper metus sagittis, non accumsan sapien sodales. Fusce dictum lectus libero, elementum accumsan ante interdum quis. Sed lectus tortor, aliquet nec nulla sit amet, venenatis laoreet nibh. Nam consectetur, orci a rhoncus lobortis, dui nulla commodo arcu, id elementum elit ante non enim. "
-  content_row:
+  feature_row:
     - image_path: assets/images/project-work.svg
       title: "Private Projects"
       actions:
@@ -27,7 +27,7 @@
 
 ---
 
-{% include content_row %}
+{% include feature_row %}
 #### I'm glad that you found your way to my portfolio. Here you can learn more about me and view some of my private projects.
 --- 
 # Education
