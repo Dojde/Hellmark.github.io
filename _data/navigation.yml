@@ -1,4 +1,7 @@
 main: 
-    - title: First Item
-    - title: Second Item
-    - title: Third Item
+  - title: Private Projects
+    url: /projects/
+  - title: Education
+    url: /education/
+  - title: Work Experience
+    url: /experience/
