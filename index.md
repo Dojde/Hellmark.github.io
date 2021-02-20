@@ -1,11 +1,9 @@
 ---
-layout: home
+  layout: home
 ---
 
-## Welcome! 
 #### I'm glad that you found your way to my portfolio. Here you can learn more about me and view some of my private projects.
-
-
+--- 
 # Education
 I am currently studying my master in **Industrial Engineering and Management** at the Faculty of Engineering, Lund University. My master is composed of Software Intensive Systems and Risk Management (Statistics).
 
