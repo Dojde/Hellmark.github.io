@@ -2,7 +2,7 @@
   layout: splash
   title: Welcome
   feature_row:
-    - image_path: assets/images/businessman-310819_1280.png
+    - image_path: assets/images/working-on-office.svg
       title: "Private Projects"
       actions:
       url: /projects/
