@@ -1,5 +1,6 @@
 ---
 title: Portfolio
+layout: search
 header:
   image: /assets/images/businessman-310819_1280.png
 ---
