@@ -5,7 +5,7 @@
     overlay_image: /assets/images/moon_dark.jpg
   excerpt: "Vestibulum gravida lorem ullamcorper metus sagittis, non accumsan sapien sodales. Fusce dictum lectus libero, elementum accumsan ante interdum quis. Sed lectus tortor, aliquet nec nulla sit amet, venenatis laoreet nibh. Nam consectetur, orci a rhoncus lobortis, dui nulla commodo arcu, id elementum elit ante non enim. "
   feature_row:
-    - image_path: assets/images/kanban.png
+    - image_path: assets/images/kanban.jpg
       title: "Private Projects"
       actions:
       url: /projects/
@@ -18,7 +18,7 @@
       btn_label: "Read More"
       btn_class: "btn--primary"
       excerpt: "M.Sc. Industrial Engineering and Management. Focus: mathematics and software development." 
-    - image_path: assets/images/laptop.png 
+    - image_path: assets/images/laptop.jpg 
       title: "Work Experience"
       url: /experience/
       btn_label: "Read More"
