@@ -1,13 +1,12 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-title: My Portfolio
-subtitle: by Johan Hellmark
+title: Johan Hellmark
+subtitle: A Portfolio
 # logo: assets/img/businessman-310819_1280.png
 description: "Contact me at: <br /> Johan.hellmark50@gmail.com"
 author: Johan Hellmark 
 url: "https://hellmarkjohan.github.io/"
 repository: "HellmarkJohan/hellmarkJohan.github.io"
 source: .
-masthead_title: "My Custom Title"
 plugins:
   - jekyll-include-cache
 defaults:
