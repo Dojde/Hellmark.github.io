@@ -33,7 +33,7 @@ From this master (which officically is called Financial Engineering and Risk Man
 
 ---
 
-## Other Courses
+## Other 
 In addition to my degree in Industrial Engineering and Management I have read three courses at Lund University namely
 - Rhetoric, 15 credits
 - Internet Based Introduction to Law with Multimedia Lectures, 15 credits
