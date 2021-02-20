@@ -9,6 +9,7 @@ repository: "HellmarkJohan/hellmarkJohan.github.io"
 source: .
 plugins:
   - jekyll-include-cache
+header_pages: _data/navigation.yml
 defaults:
   -
     scope:
