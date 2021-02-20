@@ -1,6 +1,13 @@
 ---
   layout: home
   title: Welcome
+  feature_row:
+  - image_path: assets/images/businessman-310819_1280.png
+    title: "Private Projects"
+    actions:
+    - label: "Test"
+    - url: /education/
+  - excerpt: I am currently studying my master in Industrial Engineering and Management at the Faculty of Engineering, Lund University. My master is composed of Software Intensive Systems and Risk Management (Statistics).
 ---
 
 #### I'm glad that you found your way to my portfolio. Here you can learn more about me and view some of my private projects.
