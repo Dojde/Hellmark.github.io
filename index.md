@@ -1,8 +1,10 @@
 ---
   layout: splash
   title: Welcome
-  feature_row:
-    - image_path: assets/images/working-on-office.svg
+  header:
+    excerpt: "Vestibulum gravida lorem ullamcorper metus sagittis, non accumsan sapien sodales. Fusce dictum lectus libero, elementum accumsan ante interdum quis. Sed lectus tortor, aliquet nec nulla sit amet, venenatis laoreet nibh. Nam consectetur, orci a rhoncus lobortis, dui nulla commodo arcu, id elementum elit ante non enim. "
+  content_row:
+    - image_path: assets/images/project-work.svg
       title: "Private Projects"
       actions:
       url: /projects/
@@ -15,7 +17,7 @@
       btn_label: "Read More"
       btn_class: "btn--primary"
       excerpt: "M.Sc. Industrial Engineering and Management. Focus: mathematics and software development." 
-    - image_path: assets/images/project-work.svg
+    - image_path: assets/images/working-on-office.svg 
       title: "Work Experience"
       url: /experience/
       btn_label: "Read More"
@@ -24,7 +26,7 @@
 
 ---
 
-{% include feature_row %}
+{% include content_row %}
 #### I'm glad that you found your way to my portfolio. Here you can learn more about me and view some of my private projects.
 --- 
 # Education
