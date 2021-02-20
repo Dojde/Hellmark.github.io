@@ -8,21 +8,21 @@
     url: /projects/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: From from software to engagement in local youth sports team.
+    excerpt: Ranging from software projects to engagement in local youth sports team.
   - image_path: assets/images/businessman-310819_1280.png
     title: "Education"
     actions:
     url: /education/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: M.Sc. Industrial Engineering and Management, with a foccus on mathematics and software development. 
+    excerpt: M.Sc. Industrial Engineering and Management with a focus on mathematics and software development. 
   - image_path: assets/images/businessman-310819_1280.png
     title: "Work Experience"
     actions:
     url: /experience/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: A sample of projects ranging from software to engagement in a local youth sports team.
+    excerpt: Many years of experience from multiple sectors.
 
 ---
 
