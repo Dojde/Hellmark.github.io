@@ -12,11 +12,16 @@ water_pump:
     alt: "placeholder image 1"
     title: "Water Pump"
     excerpt: "Since I got tired of giving water to my tomatoes and since they limited the amount of time one could spend away from home i decided to build a watering system for my plants. I used an esp as client which controlled the pump and gained in building this system I gained experience with soldering, relay cards, circut diagrams and much more. As a challenge I decided to implement the server side from scratch which included buliding an server with express which communicated with the esp through an mqtt broker, logged the values with InfluxDB, presented infomation with grafana and automated the watering with node-red."
+handball:
+  - image_path: assets/images/kanban.jpg
+    alt: "placeholder image 1"
+    title: "Engagement in local handball team"
+    excerpt: "Through my youth I was a engaged in both the local handball and fotball team. Later, I returned to handball in the role of responsible for a youth teams physical training. This was a role I held for over 4 years and had the luxuray to be a part of an incredibly competent group of coaches. With good structure, lots of engagement and many hours of ward work we became the largest team in our age category and managed to have all 3 of our teams to be a part of the last 32 teams standing in the Swedish Championship. Something which had never been done before. </br> This engagement resulted in many hours of contemplating and learning about how I could best contribute to the development of the players. I took multiple courses, planned countless workout-sessions and developed a website (https://hjhulugi.wordpress.com/) where the players could take part of my thoughts regarding exercise, sleep, nutriton and mental aspects. "
 ---
 # Private Projects
 
 {% include feature_row id="workout_website" type="left" %}
-{% include feature_row id="water_pump" type="right" align="left" %}
+{% include feature_row id="water_pump" type="left" %}
 
 ## Website for Workout Registering
 I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon  publish the website for you to view. 
