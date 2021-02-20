@@ -5,7 +5,7 @@
     overlay_image: /assets/images/moon_dark.jpg
   excerpt: "I'm glad that you found your way to my portfolio. 
   intro: 
-    - title: ""I am a driven and engaged engineer who loves new challenges. I have a diverse set of skills combining software, mathematics and management.""
+    - title: "I am a driven and engaged engineer who loves new challenges. I have a diverse set of skills combining software, mathematics and management."
   feature_row:
     - image_path: assets/images/kanban.jpg
       title: "Private Projects"
@@ -29,7 +29,7 @@
 
 ---
 {% include feature_row id="intro" type="center" %}
-
+> I am a driven and engaged engineer who loves new challenges. I have a diverse set of skills combining software, mathematics and management.
 {% include feature_row %}
 #### I'm glad that you found your way to my portfolio. Here you can learn more about me and view some of my private projects.
 --- 
