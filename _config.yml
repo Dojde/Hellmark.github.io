@@ -7,7 +7,8 @@ author: Johan Hellmark
 url: "https://hellmarkjohan.github.io/"
 baseurl: ""
 repository: "HellmarkJohan/hellmarkJohan.github.io"
-include: ["_pages"]
+include: 
+  - _pages
 
 plugins:
   - jekyll-include-cache
