@@ -2,9 +2,13 @@
 title: Projects
 permalink: /projects/
 layout: splash
+workout_website:
+  - image_path: assets/images/book-1.jpg
+    alt: "placeholder image 1"
+    title: "Website For Registering Workouts"
+    excerpt: "I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon  publish the website for you to view."
 ---
 # Private Projects
----
 
 ## Website for Workout Registering
 I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon  publish the website for you to view. 
