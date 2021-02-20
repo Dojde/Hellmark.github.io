@@ -9,6 +9,20 @@
     btn_label: "Read More"
     btn_class: "btn--primary"
     excerpt: A sample of projects ranging from software to engagement in a local youth sports team.
+  - image_path: assets/images/businessman-310819_1280.png
+    title: "Education"
+    actions:
+    url: /education/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: M.Sc. Industrial Engineering and Management at Lund University. Focus on mathematics and software development. 
+  - image_path: assets/images/businessman-310819_1280.png
+    title: "Work Experience"
+    actions:
+    url: /experience/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: A sample of projects ranging from software to engagement in a local youth sports team.
 
 ---
 
