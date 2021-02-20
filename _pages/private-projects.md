@@ -1,7 +1,7 @@
 ---
 title: Projects
 permalink: /projects/
-
+layout_ splash
 ---
 # Private Projects
 ---
