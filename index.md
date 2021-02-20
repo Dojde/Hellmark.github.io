@@ -3,7 +3,7 @@
   title: Welcome
   header:
     overlay_image: /assets/images/moon_dark.jpg
-  excerpt: "Vestibulum gravida lorem ullamcorper metus sagittis, non accumsan sapien sodales. Fusce dictum lectus libero, elementum accumsan ante interdum quis. Sed lectus tortor, aliquet nec nulla sit amet, venenatis laoreet nibh. Nam consectetur, orci a rhoncus lobortis, dui nulla commodo arcu, id elementum elit ante non enim. "
+  excerpt: "I'm glad that you found your way to my portfolio."
   feature_row:
     - image_path: assets/images/kanban.jpg
       title: "Private Projects"
