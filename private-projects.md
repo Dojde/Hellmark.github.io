@@ -19,7 +19,7 @@ handball:
   - image_path: assets/images/kanban.jpg
     alt: "placeholder image 1"
     title: "Engagement in local handball team"
-    excerpt: "Through my youth I was a engaged in both the local handball and fotball team. Later, I returned to handball in the role of responsible for a youth teams physical training. This was a role I held for over 4 years and had the luxuray to be a part of an incredibly competent group of coaches. With good structure, lots of engagement and many hours of ward work we became the largest team in our age category and managed to have all 3 of our teams to be a part of the last 32 teams standing in the Swedish Championship. Something which had never been done before. </br> This engagement resulted in many hours of contemplating and learning about how I could best contribute to the development of the players. I took multiple courses, planned countless workout-sessions and developed a website (https://hjhulugi.wordpress.com/) where the players could take part of my thoughts regarding exercise, sleep, nutriton and mental aspects. "
+    excerpt: "Through my youth I was a engaged in both the local handball and fotball team. Later, I returned to handball in the role of responsible for a youth teams physical training. This was a role I held for over 4 years and had the luxuray to be a part of an incredibly competent group of coaches. With good structure, lots of engagement and many hours of ward work we became the largest team in our age category and managed to have all 3 of our teams to be a part of the last 32 teams standing in the Swedish Championship. Something which had never been done before. This engagement resulted in many hours of contemplating and learning about how I could best contribute to the development of the players. I took multiple courses, planned countless workout-sessions and developed a website (https://hjhulugi.wordpress.com/) where the players could take part of my thoughts regarding exercise, sleep, nutriton and mental aspects. "
 haskell:
   - image_path: assets/images/kanban.jpg
     alt: "placeholder image 1"
@@ -33,7 +33,7 @@ literature:
 ---
 
 {% include feature_row id="workout_website" type="left" %}
+{% include feature_row id="water_pump" type="right" %}
+{% include feature_row id="handball" type="center" %}
 {% include feature_row id="literature" type="right" %}
-{% include feature_row id="water_pump" type="left" %}
-{% include feature_row id="haskell" type="right" %}
-{% include feature_row id="handball" type="left" %}
+{% include feature_row id="haskell" type="left" %}
