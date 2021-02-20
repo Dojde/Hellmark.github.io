@@ -5,9 +5,11 @@
   - image_path: assets/images/businessman-310819_1280.png
     title: "Private Projects"
     actions:
-    - label: "Test"
-    - url: /education/
-    excerpt: I am currently studying my master in Industrial Engineering and Management at the Faculty of Engineering, Lund University. My master is composed of Software Intensive Systems and Risk Management (Statistics).
+    url: /projects/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: A sample of projects ranging from software to engagement in a local youth sports team.
+
 ---
 
 {% include feature_row %}
