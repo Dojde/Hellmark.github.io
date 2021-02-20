@@ -15,7 +15,7 @@
     url: /education/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: M.Sc. Industrial Engineering and Management at Lund University. Focus on mathematics and software development. 
+    excerpt: M.Sc. Industrial Engineering and Management, with a foccus on mathematics and software development. 
   - image_path: assets/images/businessman-310819_1280.png
     title: "Work Experience"
     actions:
