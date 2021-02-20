@@ -26,7 +26,6 @@
       excerpt: "Many years of experience from multiple sectors."
 
 ---
-{% include feature_row id="intro" type="center" %}
 > I am a driven and engaged engineer who loves new challenges. I have a diverse set of skills combining software, mathematics and management.
 {% include feature_row %}
 
