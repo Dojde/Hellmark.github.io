@@ -9,13 +9,13 @@
       btn_label: "Read More"
       btn_class: "btn--primary"
       excerpt: "Software projectsm engagement in local youth sports team and much more."
-    - image_path: assets/images/businessman-310819_1280.png
+    - image_path: assets/images/graduation-student.svg
       title: "Education"
       url: /education/
       btn_label: "Read More"
       btn_class: "btn--primary"
       excerpt: "M.Sc. Industrial Engineering and Management. Focus: mathematics and software development." 
-    - image_path: assets/images/graduation-student.svg
+    - image_path: assets/images/project-work.svg
       title: "Work Experience"
       url: /experience/
       btn_label: "Read More"
