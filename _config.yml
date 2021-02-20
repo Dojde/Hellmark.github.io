@@ -9,7 +9,5 @@ baseurl: ""
 repository: "HellmarkJohan/hellmarkJohan.github.io"
 source: .
 
-include:
-  - _pages
 plugins:
   - jekyll-include-cache
