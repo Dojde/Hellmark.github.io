@@ -5,8 +5,10 @@ subtitle: A portfolio.
 description: "Contact me at: <br /> Johan.hellmark50@gmail.com"
 author: Johan Hellmark 
 url: "https://hellmarkjohan.github.io/"
+baseurl: ""
 repository: "HellmarkJohan/hellmarkJohan.github.io"
 source: .
+
 include:
   - _pages
 plugins:
