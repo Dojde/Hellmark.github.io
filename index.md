@@ -3,7 +3,7 @@
   title: Welcome
   header:
     overlay_image: /assets/images/moon_dark.jpg
-  excerpt: "I'm glad that you found your way to my portfolio. 
+  excerpt: "I'm glad that you found your way to my portfolio."
   intro: 
     - title: "I am a driven and engaged engineer who loves new challenges. I have a diverse set of skills combining software, mathematics and management."
   feature_row:
