@@ -14,7 +14,7 @@
       btn_label: "Read More"
       btn_class: "btn--primary"
       excerpt: "Software projectsm engagement in local youth sports team and much more."
-    - image_path: assets/images/graduation.png
+    - image_path: assets/images/graduation.jpg
       title: "Education"
       url: /education/
       btn_label: "Read More"
