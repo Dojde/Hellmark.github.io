@@ -18,16 +18,9 @@ author:
   bio: "A driven  engineer whith diverse set of skills combining software, mathematics and management." # Note: Markdown is allowed
   location: "Lund/Malmö, Sweden"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
     - label: "Linkedin"
-      icon: "fa-linkedin-square"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/johan-hellmark-689236206/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
+    - label: "johan.hellmark50@gmail.com"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
 
