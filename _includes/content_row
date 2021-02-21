@@ -24,9 +24,10 @@
           {% endif %}
 
           {% if f.tags %}
-            <p style="font-size:12px;">
+            <p style="font-size:14px;">
+            -
               {% for tag in f.tags %}
-                {{ tag }}
+                {{ tag }},
               {% endfor %}
             </p>
           {% endif %}
