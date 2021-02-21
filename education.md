@@ -10,14 +10,16 @@ author_profile: true
 <h2>Software</h2>
 <span style="font-size: 16px; line-height: normal;">
 Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
-
 - Object-oriented modelling and design 
 - Algorithms, data structures and complexity
 - Real time programming 
-
-
-real time programming, database technology and simulation. Additionally, I have also taken courses which are more focused on the software development process for example software development for large systems, configuration management and software engineering - methodology.
+- Database technology 
+- Simulation 
+- Large systems 
+- Configuration management 
+- Software engineering - methodology
 </span>
+
 ---
 
 ## Mathematics
