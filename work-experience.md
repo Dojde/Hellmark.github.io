@@ -52,10 +52,10 @@ I was working as an assistant to a group of engineers and had a wide range of ta
 
 ##### Improved Technical Knowledge
 <span style="font-size: 16px; line-height: normal;">
-
 During my years at Axis my technical knowledge was furthered. I was creating scripts that were reviewed and used by the engineers at Axis which helped me 
 improve my ability in programming. A few example of completed tasks are
 </span>
+
 <ul style="font-size: 16px; line-height: normal;">
 <li>Automation of radar measurements including components such as step motors and spectrum analyzers </li>
 <li>Development and automation of the lab systems used by many departments at Axis </li>
