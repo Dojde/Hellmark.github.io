@@ -18,7 +18,7 @@ tetra_pak:
   - "2015"
 ---
 
-# FINN INN
+<h2 style="font-size:30px;">FINN INN</h2>
 <span style="font-size: 16px; line-height: normal;">
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies.
 </span>
@@ -41,9 +41,7 @@ What do you do when there are more guests than expected? Or if someone the break
 To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
 </span>
 
---- 
-
-# AXIS Communications 
+## AXIS Communications 
 <span style="font-size: 16px; line-height: normal;">
 Axis Communications develops network cameras for video surveillance. 
 I was working as an assistant to a group of engineers and had a wide range of tasks, from automation of tests to collecting video material. 
@@ -73,7 +71,7 @@ how I could facilitate their work and how to communicate in a good manner.
 Many of my projects were performed with other part-time workers through which I learned how to tackle coordination and communication in software development. 
 </span>
 
-# Tetra Pak
+## Tetra Pak
 <span style="font-size: 16px; line-height: normal;">
 During the summer of 2015 I performed warehouse work at Tetra Pak Technical Service Ab. 
 My main task was to count and collect spareparts which should be sent to customers. 
