@@ -25,9 +25,15 @@
           {% endif %}
 
           {% if f.excerpt %}
+            {% if include.type == right %}
             <div class="archive__item-excerpt" style="text-align:left;">
               {{ f.excerpt | markdownify }}
             </div>
+            {% else %}
+              <div class="archive__item-excerpt" style="text-align:left;">
+                {{ f.excerpt | markdownify }}
+              </div>
+            {% end %}
           {% endif %}
 
           {% if f.url %}
