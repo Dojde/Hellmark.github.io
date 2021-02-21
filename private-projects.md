@@ -6,11 +6,24 @@ author_profile: true
 log_my_exercise: 
   - title: "LogMyExercises"
     tags: 
-    - "programming"
+    - Programming
+    - Full Stack Developer 
+    - React
+    - Sql
+    - Django
 water_pump: 
   - title: "Water Pump"
+    tags: 
+    - Node-red
+    - Grafana
+    - Influxdb
+    - Mqtt
 handball:
   - title: "Youth Handball Team"
+    tags: 
+    - Leadership
+    - Volunteering
+    - Teamwork
 literature:
   - title: "Literature"
 haskell:
