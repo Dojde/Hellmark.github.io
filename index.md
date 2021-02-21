@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 classes: wide
 ---
-<div class="row">
+<div class="row" style="text-align: center;">
   <div class="column">
     <h2>Welcome I am Johan Hellmark!</h2>
   </div>
