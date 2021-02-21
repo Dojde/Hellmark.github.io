@@ -10,10 +10,9 @@ author_profile: true
 <h2>Software</h2>
 <span style="font-size: 16px; line-height: normal;">
 Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
-<ul>
+<ul style="font-size: 16px;">
  <li>Object-oriented modelling and design  </li>
 </ul>  
-</span>
 
  - Object-oriented modelling and design 
  - Algorithms, data structures and complexity
