@@ -42,11 +42,13 @@ From this master (which officically is called Financial Engineering and Risk Man
 ---
 
 ## Other 
-In addition to my degree in Industrial Engineering and Management I have read three courses at Lund University namely
+<span style="font-size: 16px; line-height: normal;">
+In addition to my degree in Industrial Engineering and Management I have read three courses at Lund University namely </span>
 - Rhetoric, 15 credits
 - Internet Based Introduction to Law with Multimedia Lectures, 15 credits
 - Project Management Knowledge Areas, 15 credits
 
-Further I have taken courses outside the university 
+<span style="font-size: 16px; line-height: normal;">
+Further I have taken courses outside the university </span>
 - Gå-Före! - A leadership education for young leaders (https://forebild.se/ga-fore/) 
 - TS1 - A 72-hour course given by the Swedish Handball Federation to improve the leadership of youth handball coaches
