@@ -25,6 +25,7 @@ Except for the more technical courses I have also taken courses which are more f
 ---
 
 ## Mathematics
+Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics. 
 From this master (which officically is called Financial Engineering and Risk Management) I have extracted the following statistic courses. 
 - Stationary Stochastic Processes
 - Mathematical Statistics, Time Series Analysis
