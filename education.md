@@ -24,7 +24,7 @@ Since software devlopment was a very small part of my course plan I often studie
 
 ## Mathematics
 <span style="font-size: 16px; line-height: normal;">
-Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics.
+Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics. Example of courses in mathematics are
 <ul style="font-size: 16px;">
  <li>Monte Carlo and Empirical Methods for Stochastic Inference </li>
  <li>Mathematical Statistics, Time Series Analysis  </li>
