@@ -14,7 +14,7 @@ plugins:
   
 author:
   name: "Johan Hellmark "
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile_picture.jpeg"
   bio: "A driven  engineer whith diverse set of skills combining software, mathematics and management." # Note: Markdown is allowed
   location: "Lund/Malmö, Sweden"
   links:
