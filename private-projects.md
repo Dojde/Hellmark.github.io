@@ -17,6 +17,8 @@ haskell:
   - title: "Algorithms in Haskell"
 ---
 
+<p style="font-size:24px;">"Skill comes from consisent and deliberate practice."</p>
+
 {% include content_row id="log_my_exercise" %}
 <span style="font-size: 16px; line-height: normal;">I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon publish the website for you to view.</span>
 
