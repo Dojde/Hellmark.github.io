@@ -14,6 +14,10 @@ bio:
 
 {% include feature_row id="bio" type="center" %}
 
+<div> 
+  <h1>Hi, I am Johan Hellmark!</h1>
+</div>
+
 Contant me at Linkedin, 
 
 Contect me at Email.
