@@ -30,12 +30,12 @@ Being able to communicate well is probably one of the most important skills a wa
 hosts and coleagues. We must be polite even during stressfull situation and try to satisfy everyones needs.
 </span>
 
-###### Long Demanding Shifts 
+###### Long demanding shifts 
 <span style="font-size: 16px; line-height: normal;">
 As a waiter you are usually working before, during and after an event. This results in long demanding shifts where one often is expected to work late hours.
 </span>
 
-###### Planning, Structure and Adaptability 
+###### Planning, structure and adaptability 
 <span style="font-size: 16px; line-height: normal;">
 A big part of executing a successfull event comes down to good planning and being able to adapt to unforeseen situations. 
 What do you do when there are more guests than expected? Or if someone the break at an seminarium is half an hour too early?
@@ -62,7 +62,7 @@ improve my ability in programming. A few example of completed tasks are
 <li>A comparative study to investigate differences in sales figures</li>
 </ul>
 
-###### Insight in the work of an engineer
+###### Working as an engineer
 <span style="font-size: 16px; line-height: normal;">
 I got a first hand experince of how the engineers were working and the workflows used at Axis. I learned about the methodologies they use to solve problems,
 how I could facilitate their work and how to communicate in a good manner.
