@@ -4,7 +4,7 @@ layout: single
 class: wide
 author_profile: true
 log_my_exercise: 
-  - title: "LogMyExercises"
+  - title: "LogMyExercise"
     tags: 
     - Programming
     - Full Stack Developer 
