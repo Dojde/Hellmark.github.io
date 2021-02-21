@@ -19,8 +19,8 @@ tetra_pak:
 ---
 
 <h2 style="font-size:30px;">FINN INN</h2>
+<blockquote style="font-size: 2opx";>Waiter, 2016-present</blockquote>
 <span style="font-size: 16px; line-height: normal;">
-<blockquote>Waiter, 2016-present</blockquote>
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies.
 </span>
 
@@ -43,7 +43,7 @@ To handle these situations well you must have a good structure, good communicati
 </span>
 
 <h2 style="font-size:30px;">AXIS Communications</h2>
-<blockquote>Assistant to engineers, 2016-2018</blockquote>
+<blockquote style="font-size: 2opx";>Assistant to engineers, 2016-2018</blockquote>
 <span style="font-size: 16px; line-height: normal;">
 Axis Communications develops network cameras for video surveillance. 
 I was working as an assistant to a group of engineers and had a wide range of tasks, from automation of tests to collecting video material. 
@@ -74,7 +74,7 @@ Many of my projects were performed with other part-time workers through which I 
 </span>
 
 <h2 style="font-size:30px;">Tetra Pak</h2>
-<blockquote>Warehouse worker, 2015</blockquote>
+<blockquote style="font-size: 2opx";>Warehouse worker, 2015</blockquote>
 <span style="font-size: 16px; line-height: normal;">
 During the summer of 2015 I performed warehouse work at Tetra Pak Technical Service Ab. 
 My main task was to count and collect spareparts which should be sent to customers. 
