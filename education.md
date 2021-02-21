@@ -29,12 +29,14 @@ Since software devlopment was a very small part of my course plan I often studie
 <span style="font-size: 16px; line-height: normal;">
 Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics.
 <ul style="font-size: 16px;">
- <li></li>
  <li>Monte Carlo and Empirical Methods for Stochastic Inference </li>
  <li>Mathematical Statistics, Time Series Analysis  </li>
  <li>Stationary Stochastic Processes </li>
  <li>Analytic Functions  </li>
- <li>Calculus in One and Serveral Variables  </li>
+ <li>Calculus in One Variable </li>
+ <li>Calculus in Serveral Variables 
+</li>
+
  <li>Statistics Basic Cous  </li>
  <li>Linear Algebra</li>
 </ul>  
