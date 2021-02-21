@@ -14,7 +14,7 @@ log_my_exercise:
 water_pump: 
   - title: "Water Pump"
     tags: 
-    - Node-red
+    - Node-Red
     - Grafana
     - Influxdb
     - Mqtt
@@ -26,8 +26,14 @@ handball:
     - Teamwork
 literature:
   - title: "Literature"
+    tags: 
+    - Learning
+    - Knowledge
 haskell:
   - title: "Algorithms in Haskell"
+    tags: 
+    - Functional Programming
+
 ---
 <div style="text-align:center; margin-top:20px">
   <p style="font-size:36px; font-style:italic;">"Skill comes from consistent and deliberate practice."</p>
