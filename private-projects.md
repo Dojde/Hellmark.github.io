@@ -34,8 +34,7 @@ literature:
     excerpt: "My favourite genre is non-fiction. I deeply appreciate a well-written book which manages to explain the underlying reason of why things are as they are and presents new perspectives on everyday things. Therefore, some of my favourite subjects to read about in my sparetime have been psychology and behavioral economics."
 ---
 
-{% include feature_row id="workout_website" type="left" %}
-{% include feature_row id="water_pump" type="right" %}
-{% include feature_row id="handball" type="left" %}
-{% include feature_row id="literature" type="right" %}
-{% include feature_row id="haskell" type="left" %}
+### Website For Registering Workouts
+I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon publish the website for you to view.
+  
+
