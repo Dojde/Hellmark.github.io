@@ -29,7 +29,7 @@ literature:
 haskell:
   - title: "Algorithms in Haskell"
 ---
-<div style="text-align:center">
+<div style="text-align:center; margin-top:20px">
   <p style="font-size:40px; font-style:italic;">"Skill comes from consistent and deliberate practice."</p>
 </div>
 <p style="font-size: 18px;">On this page follows samples of <em>private projects</em> through whi I have developed my skills in different areas.</p>
