@@ -5,6 +5,8 @@ class: wide
 author_profile: true
 log_my_exercise: 
   - title: "LogMyExercises"
+    tag: 
+    - "programming"
 water_pump: 
   - title: "Water Pump"
 handball:
