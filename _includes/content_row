@@ -20,9 +20,14 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2>{{ f.title }}</h2>
+          <h2>{{ f.title }} - 
+            {% if f.tag %}
+              {% for tag in f.tag %}
+                #{{ tag }}
+              {% endfor %}
+            {% endif %}
+            </h2>
           {% endif %}
-
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
               THIS IS A CONTENT ROW
