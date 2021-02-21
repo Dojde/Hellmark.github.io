@@ -8,7 +8,7 @@ finn_inn:
   - Waiter
   - 2016-present
 axis:
- title: "Axis Communications"
+ title: "Axis Communication"
  tags: 
   - Assistant to engineers
   - 2016-2018
@@ -23,14 +23,14 @@ tetra_pak:
 <span style="font-size: 16px; line-height: normal;">
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
 
-#### Communication
+<h4>Communication</h4>
 Being able to communicate well is probably one of the most important skills a waiter must learn. We must be able to communicate with both guests, 
 hosts and coleagues. We must be polite even during stressfull situation and try to satisfy everyones needs.
 
-#### Long Demanding Shifts
+<h4>Long Demanding Shifts</h4>
 As a waiter you are usually working before, during and after an event. This results in long demanding shifts where one often is expected to work late hours.
 
-#### Planning, Structure and Adaptability 
+<h4>Planning, Structure and Adaptability </h4>
 A big part of executing a successfull event comes down to good planning and being able to adapt to unforeseen situations. 
 What do you do when there are more guests than expected? Or if someone the break at an seminarium is half an hour too early?
 To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
