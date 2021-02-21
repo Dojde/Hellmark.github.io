@@ -11,13 +11,13 @@ author_profile: true
 Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
 <ul style="font-size: 16px;">
  <li>Software Development for Large Systems</li>
- <li>Object-oriented modelling and design  </li>
- <li>Algorithms, data structures and complexity  </li>
- <li>Real time programming </li>
+ <li>Object-Oriented Modelling and Design  </li>
+ <li>Algorithms, Data Structures and Complexity  </li>
+ <li>Real Time Programming </li>
  <li>Database technology   </li>
  <li>Simulation  </li>
- <li>Configuration management  </li>
- <li>Software engineering - methodology </li>
+ <li>Configuration Management  </li>
+ <li>Software Engineering - Methodology </li>
 </ul>  
 
 ---
@@ -26,7 +26,7 @@ Since software devlopment was a very small part of my course plan I often studie
 <span style="font-size: 16px; line-height: normal;">
 Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics. Example of courses in mathematics are
 <ul style="font-size: 16px;">
- <li>Monte Carlo and Empirical Methods for Stochastic Inference </li>
+ <li>Monte Carlo and empirical methods for stochastic inference </li>
  <li>Mathematical Statistics, Time Series Analysis  </li>
  <li>Stationary Stochastic Processes </li>
  <li>Analytic Functions  </li>
@@ -51,6 +51,6 @@ In addition to my degree in Industrial Engineering and Management I have read th
 <span style="font-size: 16px; line-height: normal;">
 Further I have taken courses outside the university </span>
 <ul style="font-size: 16px;">
- <li>Gå-Före! A leadership education for young leaders</li>
- <li>TS1, A 72-hour course given by the Swedish Handball Federation to improve the leadership of youth handball coaches</li>
+ <li>Gå-Före! (A leadership education for young leaders)</li>
+ <li>TS1 (A 72-hour course given by the Swedish Handball Federation)</li>
 </ul>  
