@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 --- 
 
-<h3>Formal degree (Januray 2021)</h3>
+<h3>Formal degree (Januray 2022)</h3>
 <p>M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. </p> 
  
 <h4>Software</h4>
