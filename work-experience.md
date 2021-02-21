@@ -1,6 +1,8 @@
 ---
 title: Work Experience
 permalink: /experience/
+layout: single
+author_profile: true
 finn_inn:
  title: "FINN INN"
  tags: 
@@ -18,8 +20,8 @@ tetra_pak:
   - 2015
 ---
 
-{% include content_row id="finn_inn" %}
 <span style="font-size: 16px; line-height: normal;">
+{% include content_row id="finn_inn" %}
  Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
 
 <b>Communication</b>
@@ -63,3 +65,4 @@ my shift who had collected the most order lines while still having a lower margi
 
 #### Discipline
 During the summer of 2015 I worked at Tetra Pak every week of my summer vacation. We often began our shift at 6:00am.
+</span>
