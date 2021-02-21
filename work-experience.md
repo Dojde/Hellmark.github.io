@@ -19,7 +19,6 @@ tetra_pak:
 ---
 
 # FINN INN
-<h2> FINN INN </h2>
 <span style="font-size: 16px; line-height: normal;">
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies.
 </span>
@@ -30,12 +29,12 @@ Being able to communicate well is probably one of the most important skills a wa
 hosts and coleagues. We must be polite even during stressfull situation and try to satisfy everyones needs.
 </span>
 
-##### Long Demanding Shifts 
+###### Long Demanding Shifts 
 <span style="font-size: 16px; line-height: normal;">
 As a waiter you are usually working before, during and after an event. This results in long demanding shifts where one often is expected to work late hours.
 </span>
 
-##### Planning, Structure and Adaptability 
+###### Planning, Structure and Adaptability 
 <span style="font-size: 16px; line-height: normal;">
 A big part of executing a successfull event comes down to good planning and being able to adapt to unforeseen situations. 
 What do you do when there are more guests than expected? Or if someone the break at an seminarium is half an hour too early?
