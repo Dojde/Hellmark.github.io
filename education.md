@@ -7,7 +7,7 @@ software:
     alt: "Placeholder"
     title: "Software Intensive Systems"
     excerpt: "
-    Within this master I have read a couple of more technical courses such as 
+    Within this master I have read a couple of more technical courses such as  <br/>
       - Object-Oriented Modelling and Design 
       - Algorithms, data structures and complexity
       - Real time programming
