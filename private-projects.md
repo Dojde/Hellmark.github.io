@@ -4,7 +4,7 @@ layout: single
 class: wide
 author_profile: true
 log_my_exercise: 
-  - title: logMyExercises
+  - title: "logMyExercises"
 ---
 
 {% include content_row id="log_my_exercise" %}
