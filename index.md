@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: default
 author_profile: false
 classes: wide
 ---
