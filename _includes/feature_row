@@ -21,11 +21,18 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% if include.type and include.type == "right" %}
+                <div style="text-align:left;">
+                  <h2 class="archive__item-title">{{ f.title }}</h2>
+                </div>
+            {% else %}
+                <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% endif %}
+
           {% endif %}
 
           {% if f.excerpt %}
-            {% if include.type && include.type == "right" %}
+            {% if include.type and include.type == "right" %}
             <div class="archive__item-excerpt" style="text-align:left;">
               {{ f.excerpt | markdownify }}
             </div>
