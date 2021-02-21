@@ -6,7 +6,7 @@ classes: wide
 ---
 <div class="row" style="text-align: center;">
   <div class="column">
-    <h2>Welcome I am Johan Hellmark!</h2>
+    <h2>Welcome!</h2>
   </div>
   <div class="column">
     <img src="assets/images/profile_pic.jpeg" style="width:70%">
