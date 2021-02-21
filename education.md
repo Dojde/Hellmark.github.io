@@ -5,11 +5,21 @@ author_profile: true
 --- 
 
 <h2>Formal degree (Januray 2022)</h2>
-<p style="font-size:16px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. </p> 
+<p style="font-size:24px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. </p> 
  
 <h2>Software</h2>
-<p style="font-size:16px;">
-Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken tecnical software courses such as object-oriented modelling and design, algorithms, data structures and complexity, real time programming, database technology and simulation. Additionally, I have also taken courses which are more focused on the software development process for example software development for large systems, configuration management and software engineering - methodology.
+<p style="font-size: 16px; line-height: normal;">
+Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
+
+<ul> 
+ <li> Object-oriented modelling and design </li>
+ <li> Algorithms, data structures and complexity </li>
+ <li> Real time programming </li>
+ <li> object-oriented modelling and design </li>
+ <li> object-oriented modelling and design </li>
+ <li> object-oriented modelling and design </li>
+
+real time programming, database technology and simulation. Additionally, I have also taken courses which are more focused on the software development process for example software development for large systems, configuration management and software engineering - methodology.
 </p>
 ---
 
