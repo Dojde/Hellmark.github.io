@@ -12,6 +12,15 @@ include:
 plugins:
   - jekyll-include-cache
   
+footer:
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/johan-hellmark-689236206/"
+    - label: "Email - johan.hellmark50@gmail.com"
+      icon: "far fa-envelope"
+      url: "mailto:johan.hellmark50@gmail.com"
+  
 author:
   name: "Johan Hellmark "
   avatar: "/assets/images/bio-image.jpeg"
