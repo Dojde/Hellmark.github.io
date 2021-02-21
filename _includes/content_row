@@ -24,12 +24,11 @@
           {% endif %}
 
           {% if f.tags %}
-            <p style="font-size:14px;">
-            -
-              {% for tag in f.tags %}
-                {{ tag }},
-              {% endfor %}
-            </p>
+            <blockquote style="font-size:14px;">
+              {{f.tags | array_to_sentence_string: '' }}
+
+    
+            </blockquote>
           {% endif %}
           
           {% if f.excerpt %}
