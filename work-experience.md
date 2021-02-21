@@ -6,7 +6,6 @@ finn_inn:
  title: "FINN INN"
  tags: 
   - Waiter
-  - "2016-present"
 axis:
  title: "Axis Communication"
  tags: 
