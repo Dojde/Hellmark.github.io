@@ -2,8 +2,9 @@
 title: Projects
 permalink: /projects/
 layout: splash
-header:
-  overlay_image: /assets/images/moon_dark.jpg
+author_profile: true
+# header:
+  # overlay_image: /assets/images/moon_dark.jpg
 excerpt: "A few samples of my private projects."
 workout_website:
   - image_path: assets/images/book-1.jpg
