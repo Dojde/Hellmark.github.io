@@ -2,6 +2,7 @@
 title: Projects
 permalink: /projects/
 layout: single
+class: wide
 author_profile: true
 # header:
   # overlay_image: /assets/images/moon_dark.jpg
