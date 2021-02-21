@@ -3,10 +3,9 @@ permalink: /education/
 layout: single
 classes: 
 --- 
-> M.Sc. in Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
-
+> M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
 ---
-
+<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ## Software Intensive Systems 
 Within this master I have read a couple of more technical courses such as 
 - Object-Oriented Modelling and Design 
