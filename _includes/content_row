@@ -26,6 +26,7 @@
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
+              THIS IS A CONTENT ROW
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
