@@ -25,7 +25,7 @@ tetra_pak:
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies.
 </span>
 
-##### Communication
+<h6>  Communication </h6>
 <span style="font-size: 16px; line-height: normal;">
 Being able to communicate well is probably one of the most important skills a waiter must learn. We must be able to communicate with both guests, 
 hosts and coleagues. We must be polite even during stressfull situation and try to satisfy everyones needs.
