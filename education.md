@@ -3,7 +3,7 @@ permalink: /education/
 layout: single
 classes: 
 --- 
-M.SC. in Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
+> M.Sc. in Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
 
 ---
 
