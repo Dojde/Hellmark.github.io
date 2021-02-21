@@ -43,7 +43,7 @@ To handle these situations well you must have a good structure, good communicati
 </span>
 
 <h2 style="font-size:30px;">AXIS Communications</h2>
-<blockquote>Assistant to engineer, 2016-2018</blockquote>
+<blockquote>Assistant to engineers, 2016-2018</blockquote>
 <span style="font-size: 16px; line-height: normal;">
 Axis Communications develops network cameras for video surveillance. 
 I was working as an assistant to a group of engineers and had a wide range of tasks, from automation of tests to collecting video material. 
