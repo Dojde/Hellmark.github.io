@@ -4,11 +4,11 @@ layout: single
 author_profile: false
 classes: wide
 ---
-<div class="row" style="text-align: center;">
-  <div class="column">
+<div style="display: flex;">
+  <div style="flex: 1;">
     <h2>Welcome!</h2>
   </div>
-  <div class="column">
+  <div style="flex: 1;">    
     <img src="assets/images/profile_pic.jpeg" style="width:70%">
   </div>
 
