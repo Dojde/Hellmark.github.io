@@ -10,7 +10,7 @@ classes: wide
   </div>
   <div style="flex: 1;font-size: 30px;">
     <h3>Welcome</h3>
-    <h5 style="font-size: 24px;">I am driven engineer with focus on software, mathematics and management.</p> 
+    <h6 style="font-size: 20px;">I am driven engineer with focus on software, mathematics and management.</h6> 
   </div>
 </div>
 
