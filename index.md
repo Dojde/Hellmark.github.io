@@ -1,8 +1,7 @@
 ---
-title: Projects
-permalink: /projects/
+title: Welcome
+permalink: /
 layout: splash
-author_profile: true
 # header:
   # overlay_image: /assets/images/moon_dark.jpg
 excerpt: "A few samples of my private projects."
