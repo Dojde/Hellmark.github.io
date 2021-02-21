@@ -6,17 +6,17 @@ finn_inn:
  title: "FINN INN"
  tags: 
   - Waiter
-  - 2016-present
+  - "2016-present"
 axis:
  title: "Axis Communication"
  tags: 
   - Assistant to engineers
-  - 2016-2018
+  - "2016-2018"
 tetra_pak:
  title: "Tetra Pak Technical Service Ab"
  tags: 
   - Warehouse Worker
-  - 2015
+  - "2015"
 ---
 
 {% include content_row id="finn_inn" %}
