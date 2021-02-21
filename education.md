@@ -11,9 +11,7 @@ author_profile: true
 <span style="font-size: 16px; line-height: normal;">
 Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
 
-
-- <span style="font-size: 16px; line-height: normal;">Object-oriented modelling and design </span>
-
+<span style="font-size: 16px; line-height: normal;">- Object-oriented modelling and design </span>
 - Algorithms, data structures and complexity
 - Real time programming 
 - Database technology 
