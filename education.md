@@ -2,14 +2,15 @@
 permalink: /education/
 layout: single
 author_profile: true
-classes: wide
 --- 
 
 <h3>Formal degree (Januray 2022)</h3>
 <p>M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. </p> 
  
 <h4>Software</h4>
-Within this master I have read a couple of more technical courses such as 
+<p>
+Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken courses in:
+</p> 
 - Object-Oriented Modelling and Design 
 - Algorithms, Data Structures and Complexity
 - Real Time Programming
