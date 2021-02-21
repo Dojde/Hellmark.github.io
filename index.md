@@ -6,7 +6,7 @@ classes: wide
 ---
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h2>Welcome!</h2>
+    <h3>Welcome!</h3>
     <p>A driven engineer with focus on software, mathematics and management.</p> 
   </div>
   <div style="flex: 1;">    
