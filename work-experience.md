@@ -19,8 +19,8 @@ tetra_pak:
 ---
 
 <h2 style="font-size:30px;">FINN INN</h2>
-<blockquote>Waiter, 2016-present</blockquote>
 <span style="font-size: 16px; line-height: normal;">
+<blockquote>Waiter, 2016-present</blockquote>
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies.
 </span>
 
