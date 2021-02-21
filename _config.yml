@@ -3,7 +3,6 @@ title: Johan Hellmark
 subtitle: A portfolio.
 # logo: assets/img/businessman-310819_1280.png
 description: "Contact me at: <br /> Johan.hellmark50@gmail.com"
-author: Johan Hellmark 
 url: "https://hellmarkjohan.github.io/"
 baseurl: ""
 repository: "HellmarkJohan/hellmarkJohan.github.io"
@@ -14,16 +13,16 @@ plugins:
   - jekyll-include-cache
   
 author:
-  name: "Your Name"
+  name: "Johan Hellmark "
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  bio: "A driven  engineer whith diverse set of skills combining software, mathematics and management." # Note: Markdown is allowed
+  location: "Lund/Malmö, Sweden"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
