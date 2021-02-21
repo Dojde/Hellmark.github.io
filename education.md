@@ -53,6 +53,6 @@ In addition to my degree in Industrial Engineering and Management I have read th
 <span style="font-size: 16px; line-height: normal;">
 Further I have taken courses outside the university </span>
 <ul style="font-size: 16px;">
- <li>PGå-Före! - A leadership education for young leaders ([Link](https://forebild.se/ga-fore/))</li>
- <li>ITS1 - A 72-hour course given by the Swedish Handball Federation to improve the leadership of youth handball coaches</li>
+ <li>Gå-Före! - A leadership education for young leaders</li>
+ <li>TS1 - A 72-hour course given by the Swedish Handball Federation to improve the leadership of youth handball coaches</li>
 </ul>  
