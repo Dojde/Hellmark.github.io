@@ -27,8 +27,7 @@ handball:
 literature:
   - title: "Literature"
     tags: 
-    - Learning
-    - Knowledge
+    - Learning, knowledge
 haskell:
   - title: "Algorithms in Haskell"
     tags: 
