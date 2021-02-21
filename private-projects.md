@@ -8,7 +8,7 @@ log_my_exercise:
 water_pump: 
   - title: "Water Pump"
 handball:
-  - title: "Engagement In Local Youth Handball Team"
+  - title: "Youth Handball Team"
 literature:
   - title: "Literature"
 haskell:
