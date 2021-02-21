@@ -1,9 +1,7 @@
 ---
-title: Education
 permalink: /education/
 layout: single
-classes: wide
-
+classes: 
 --- 
 My master of science in Industrial Engineering and Management at the Faculty of Engineering, Lund University, includes multiple courses from both Software Intensive Systems and Risk Management (Statistics). 
 
