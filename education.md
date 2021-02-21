@@ -11,8 +11,9 @@ author_profile: true
 <span style="font-size: 16px; line-height: normal;">
 Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
 </span>
-
-<span style="font-size: 16px; line-height: normal;">
+<ul>
+ <li>Object-oriented modelling and design  </li>
+</ul>  
  - Object-oriented modelling and design 
  - Algorithms, data structures and complexity
  - Real time programming 
@@ -21,7 +22,6 @@ Since software devlopment was a very small part of my course plan I often studie
  - Large systems 
  - Configuration management 
  - Software engineering - methodology
-</span>
 
 ---
 
