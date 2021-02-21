@@ -14,7 +14,8 @@ plugins:
   
 footer:
   links:
-    - icon: "fab fa-linkedin-in"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/johan-hellmark-689236206/"
     - label: "johan.hellmark50@gmail.com"
       icon: "far fa-envelope"
