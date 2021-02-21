@@ -34,6 +34,6 @@ literature:
 
 {% include feature_row id="workout_website" type="left" %}
 {% include feature_row id="water_pump" type="right" %}
-{% include feature_row id="handball" type="center" %}
+{% include feature_row id="handball" type="left" %}
 {% include feature_row id="literature" type="right" %}
 {% include feature_row id="haskell" type="left" %}
