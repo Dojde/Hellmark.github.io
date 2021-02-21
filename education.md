@@ -8,6 +8,10 @@ software:
     title: "Software Intensive Systems"
     excerpt: "
     Within this master I have read a couple of more technical courses such as  <br/>
+    <ul>
+      <li> Test </li>
+      <li> Test2 </li>
+    </ul>
       - Object-Oriented Modelling and Design 
       - Algorithms, data structures and complexity
       - Real time programming
