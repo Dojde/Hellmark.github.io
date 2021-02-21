@@ -4,12 +4,12 @@ layout: single
 class: wide
 author_profile: true
 log_my_exercise: 
-  - title: "logMyExercises"
+  - title: "LogMyExercises"
 ---
 
 {% include content_row id="log_my_exercise" %}
-### Website For Registering Workouts
 <span style="font-size: 18px; line-height: normal;">I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon publish the website for you to view.</span>
+
   
 ### Water Pump
 <span style="font-size: 18px; line-height: normal;">Since I got tired of giving water to my tomatoes and since they limited the amount of time one could spend away from home i decided to build a watering system for my plants. I used an esp as client which controlled the pump and gained in building this system I gained experience with soldering, relay cards, circut diagrams and much more. As a challenge I decided to implement the server side from scratch which included buliding an server with express which communicated with the esp through an mqtt broker, logged the values with InfluxDB, presented infomation with grafana and automated the watering with node-red.</span>
