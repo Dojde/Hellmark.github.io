@@ -1,20 +1,44 @@
 ---
 title: Work Experience
 permalink: /experience/
-
+finn_inn:
+ title: "FINN INN"
+ tags: 
+  - Waiter
+  - 2016-present
+axis:
+ title: "Axis Communications"
+ tags: 
+  - Assistant to engineers
+  - 2016-2018
+tetra_pak:
+ title: "Tetra Pak Technical Service Ab"
+ tags: 
+  - Warehouse Worker
+  - 2015
 ---
-# Work Experience
 
----
+{% include content_row id="finn_inn" %}
+<span style="font-size: 16px; line-height: normal;">
+ Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
 
-## Assistant To Engineers   
-### @[Axis Communications](https://www.axis.com/)
-> 2016-2018
+<b>Communication</b>
+Being able to communicate well is probably one of the most important skills a waiter must learn. We must be able to communicate with both guests, 
+hosts and coleagues. We must be polite even during stressfull situation and try to satisfy everyones needs.
 
+Long Demanding Shifts
+As a waiter you are usually working before, during and after an event. This results in long demanding shifts where one often is expected to work late hours.
+
+Planning, Structure and Adaptability 
+A big part of executing a successfull event comes down to good planning and being able to adapt to unforeseen situations. 
+What do you do when there are more guests than expected? Or if someone the break at an seminarium is half an hour too early?
+To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
+
+{% include content_row id="axis" %}
 Axis Communication develops network cameras for video surveillance. 
 I was working as an assistant to a group of engineers and had a wide range of tasks, from automation of tests to collecting video material. 
 
-#### Improved Technical Knowledge
+<b>Improved Technical Knowledge</b>
 During my years at Axis my technical knowledge was furthered. I was creating scripts that were reviewed and used by the engineers at Axis which helped me 
 improve my ability in programming. A few example of completed tasks are:
 - Automation of radar measurements including components such as step motors and spectrum analyzers. 
@@ -28,31 +52,8 @@ how I could facilitate their work and how to communicate in a good manner.
 
 #### Software development in groups 
 Many of my projects were performed with other part-time workers through which I learned how to tackle coordination and communication in software development. 
- 
----
-## Waiter 
-### @[Restaurant Finn Inn](https://www.finninn.se/)
-> 2016-Present
 
-Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies at Lund University.
-
-#### Communication
-Being able to communicate well is probably one of the most important skills a waiter must learn. We must be able to communicate with both guests, 
-hosts and coleagues. We must be polite even during stressfull situation and try to satisfy everyones needs.
-
-#### Long Demanding Shifts
-As a waiter you are usually working before, during and after an event. This results in long demanding shifts where one often is expected to work late hours.
-
-#### Planning, Structure and Adaptability 
-A big part of executing a successfull event comes down to good planning and being able to adapt to unforeseen situations. 
-What do you do when there are more guests than expected? Or if someone the break at an seminarium is half an hour too early?
-To handle these situations well you must have a good structure, good communication within the team and a solution oriented approach. 
-
----
-## Warehouse Worker 
-### @[Tetra Pak Technical Service Ab](https://www.tetrapak.com/)
-> 2015
-
+{% include content_row id="tetra_pak" %}
 During the summer of 2015 I performed warehouse work at Tetra Pak Technical Service Ab. 
 My main task was to count and collect spareparts which should be sent to customers. 
 
