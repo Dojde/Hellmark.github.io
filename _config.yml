@@ -21,6 +21,8 @@ author:
     - label: " Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/johan-hellmark-689236206/"
-    - label: "johan.hellmark50@gmail.com"
+    - label: " johan.hellmark50@gmail.com"
       icon: "far fa-envelope"
+      url: "mailto:johan.hellmark50@gmail.com"
+
 
