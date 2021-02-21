@@ -5,9 +5,10 @@ author_profile: true
 classes: wide
 --- 
 
-## Formal degree (Januray 2021)
-## M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
-#### Software Intensive Systems 
+<h3>Formal degree (Januray 2021)</h3>
+<p>M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. </p> 
+ 
+<h4>Software</h4>
 Within this master I have read a couple of more technical courses such as 
 - Object-Oriented Modelling and Design 
 - Algorithms, Data Structures and Complexity
