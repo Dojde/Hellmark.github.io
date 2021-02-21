@@ -7,6 +7,6 @@ classes: wide
 
 # Welcome to my site
 <div >
-    <img src="assets/images/profile-pic.jpeg" style="width:70%">
+    <img src="assets/images/profile_pic.jpeg" style="width:70%">
 </div>
 
