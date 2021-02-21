@@ -20,8 +20,6 @@ Since software devlopment was a very small part of my course plan I often studie
  <li>Software Engineering - Methodology </li>
 </ul>  
 
----
-
 ## Mathematics
 <span style="font-size: 16px; line-height: normal;">
 Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics. Example of courses in mathematics are
@@ -37,7 +35,6 @@ Industrial Engineering is one of the engineering programs which requires most co
  <li>Linear Algebra</li>
 </ul>  
 
----
 
 ## Other 
 <span style="font-size: 16px; line-height: normal;">
