@@ -34,8 +34,7 @@ Industrial Engineering is one of the engineering programs which requires most co
  <li>Stationary Stochastic Processes </li>
  <li>Analytic Functions  </li>
  <li>Calculus in One Variable </li>
- <li>Calculus in Serveral Variables 
-</li>
+ <li>Calculus in Serveral Variables </li>
 
  <li>Statistics Basic Cous  </li>
  <li>Linear Algebra</li>
