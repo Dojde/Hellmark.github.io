@@ -61,7 +61,7 @@ improve my ability in programming. A few example of completed tasks are
 <li>Development and automation of the lab systems used by many departments at Axis </li>
 <li>Development of software used for collecting video material and changing camera settings </li>
 <li>A comparative study to investigate differences in sales figures</li>
- 
+</ul>
 
 ##### Insight in the work of an engineer
 <span style="font-size: 16px; line-height: normal;">
