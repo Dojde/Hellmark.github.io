@@ -1,11 +1,26 @@
 ---
 title: Education
 permalink: /education/
-layout: single
+layout: splash
+software:
+  - image_path: assets/images/book-1.jpg
+    alt: "Placeholder"
+    title: "Software Intensive Systems"
+    excerpt: "
+    Within this master I have read a couple of more technical courses such as 
+      - Object-Oriented Modelling and Design 
+      - Algorithms, data structures and complexity
+      - Real time programming
+      - Database Technology
+      - Simulation 
 
+      Except for the more technical courses I have also taken courses which are more focused on the software development process.
+      - Software Development for Large Systems
+      - Configuration Management 
+      - Software Engineering - Methodology
+    "
 ---
-# Education
----
+{% include feature_row id="software" type="left" %}
 
 My master of science in Industrial Engineering and Management at the Faculty of Engineering, Lund University, includes multiple courses from both Software Intensive Systems and Risk Management (Statistics). 
 
