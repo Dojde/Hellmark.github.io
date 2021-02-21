@@ -33,6 +33,7 @@
 
           {% if f.excerpt %}
             {% if include.type and include.type == "right" %}
+            <h1> RIGHT </h1>
             <div class="archive__item-excerpt" style="text-align:left;">
               {{ f.excerpt | markdownify }}
             </div>
