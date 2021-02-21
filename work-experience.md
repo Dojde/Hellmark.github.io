@@ -18,8 +18,7 @@ tetra_pak:
   - "2015"
 ---
 
-{% include content_row id="finn_inn" %}
-
+# FINN INN
 <h2> FINN INN </h2>
 <span style="font-size: 16px; line-height: normal;">
 Finn Inn is a resturant located in Lund where I have been working as a part-time waiter during my studies.
