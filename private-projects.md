@@ -32,7 +32,7 @@ haskell:
 <div style="text-align:center; margin-top:20px">
   <p style="font-size:40px; font-style:italic;">"Skill comes from consistent and deliberate practice."</p>
 </div>
-<p style="font-size: 18px;">On this page follows samples of <em>private projects</em> through whi I have developed my skills in different areas.</p>
+<p style="font-size: 18px;">On this page follows samples of private projects through which I have developed my skills.</p>
 
 {% include content_row id="log_my_exercise" %}
 <span style="font-size: 16px; line-height: normal;">I love to practice multiple different types of sports, but have not found a tool which allows me to register all my workouts in one place. So I decided to build my own. This quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration and many more aspects of software development. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using both hooks, redux and sagas. It is a work in progress but my ambision is to soon publish the website for you to view.</span>
