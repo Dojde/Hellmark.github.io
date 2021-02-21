@@ -5,15 +5,13 @@ author_profile: true
 classes: wide
 --- 
 
-> M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
-
----
-
-## Software Intensive Systems 
+## Formal degree (Januray 2021)
+## M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
+#### Software Intensive Systems 
 Within this master I have read a couple of more technical courses such as 
 - Object-Oriented Modelling and Design 
-- Algorithms, data structures and complexity
-- Real time programming
+- Algorithms, Data Structures and Complexity
+- Real Time Programming
 - Database Technology
 - Simulation 
 
@@ -24,7 +22,7 @@ Except for the more technical courses I have also taken courses which are more f
 
 ---
 
-## Risk Management (Statistics)
+## Mathematics
 From this master (which officically is called Financial Engineering and Risk Management) I have extracted the following statistic courses. 
 - Stationary Stochastic Processes
 - Mathematical Statistics, Time Series Analysis
