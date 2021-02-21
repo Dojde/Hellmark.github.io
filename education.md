@@ -1,7 +1,9 @@
 ---
 permalink: /education/
 layout: single
+author_profile: true
 classes: wide
+
 --- 
 > M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University, with a focus on software and mathematics. 
 ---
