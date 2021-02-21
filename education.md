@@ -3,9 +3,6 @@ permalink: /education/
 layout: single
 author_profile: true
 --- 
-<div style="text-align:center;">
-  <p style="font-size:36px; font-style:italic;">"Develop a passion for learning. If you do, wou will never cease to grow."</p>
-</div>
 <h2>Formal degree (Januray 2022)</h2>
 <p style="font-size:20px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University. </p> 
  
