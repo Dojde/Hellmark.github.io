@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 --- 
 <h2>Formal degree (Januray 2022)</h2>
-<p style="font-size: 18px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University.</p> 
+<p style="font-size: 18px;">M.Sc. Industrial Engineering and Management.</p> 
  
 <h2>Software</h2>
 <span style="font-size: 16px; line-height: normal;">
