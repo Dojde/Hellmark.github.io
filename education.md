@@ -3,7 +3,7 @@ permalink: /education/
 layout: single
 author_profile: true
 --- 
-<h2>Formal degree (Januray 2022)</h2>
+<h1>Formal degree (Januray 2022)</h1>
 <p style="font-size: 18px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University.</p> 
  
 <h2>Software</h2>
