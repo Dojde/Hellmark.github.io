@@ -37,7 +37,7 @@ Industrial Engineering is one of the engineering programs which requires most co
 
 <h2>Management</h2> 
 <span style="font-size: 16px; line-height: normal;">
-At the university I have read the following courses on the topic of management</span>
+At the university, I have read the following courses on the topic of management</span>
 <ul style="font-size: 16px;">
  <li>Management Organization</li>
  <li>Managerial Economics, Basic Course</li>
