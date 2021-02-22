@@ -37,7 +37,6 @@ haskell:
 <div style="text-align:center; margin-top:20px">
   <p style="font-size:36px; font-style:italic;">"Skill comes from consistent and deliberate practice."</p>
 </div>
-<p style="font-size: 18px;">On this page follows samples of private projects.</p>
 
 {% include content_row id="log_my_exercise" %}
 <span style="font-size: 16px; line-height: normal;">A web-based application where a user can register multiple types of workouts, set goals and view the progress. This project quickly became a very good platform for me to gain practical experience in web-programming, testing, continous integration, database design and much more. The backend is written in django and communicates with the client through an REST API. The client is built in react and is using hooks, redux and sagas. It is a work in progress but my ambition is to soon publish the website for you to view.</span>
