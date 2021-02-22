@@ -51,7 +51,7 @@ At Axis Communications I performed automation of lab equipment which include mul
 
 {% include content_row id="recording" %}
 <span style="font-size: 16px; line-height: normal;">
-One common task at Axis was to record video material. To facilitate this work me, and my co-workers, created a script which automated the recordings and had a user interface in which one could easily change the settings. The script saved us countless of hours and made our days a lot more fun. 
+One common work task when I was working at Axis Communications was to record video material. To facilitate this work me, and my co-workers, created a script which automated the recordings and had a user interface in which one could easily change the settings. The script saved us countless of hours and made our days a lot more fun. 
 </span>
 
 
