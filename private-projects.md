@@ -12,14 +12,14 @@ log_my_exercise:
     - Sql
     - Django
 water_pump: 
-  - title: "Water Pump"
+  - title: "Water pump"
     tags: 
     - Node-Red
     - Grafana
     - Influxdb
     - Mqtt
 handball:
-  - title: "Leader of Youth Handball Team"
+  - title: "Leader of youth handball team"
     tags: 
     - Leadership
     - Volunteering
@@ -29,7 +29,7 @@ literature:
     tags: 
     - Learning, Knowledge
 haskell:
-  - title: "Algorithms in Haskell"
+  - title: "Algorithms in haskell"
     tags: 
     - Functional Programming
 
