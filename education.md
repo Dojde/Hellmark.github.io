@@ -35,18 +35,21 @@ Industrial Engineering is one of the engineering programs which requires most co
 </ul>  
 
 
-<h2>Other</h2> 
+<h2>Management</h2> 
 <span style="font-size: 16px; line-height: normal;">
-In addition to my degree in Industrial Engineering and Management, I have read three courses at Lund University namely </span>
+At the university I have read the following courses on the topic of management</span>
 <ul style="font-size: 16px;">
- <li>Project Management Knowledge Areas, 15 credits</li>
- <li>Internet Based Introduction to Law with Multimedia Lectures, 15 credits</li>
- <li>Rhetoric, 15 credits  </li>
+ <li>Management Organization</li>
+ <li>Managerial Economics, Basic Course</li>
+ <li>Managerial Economics, Advanced Course</li>
+ <li>Financial Management</li>
+ <li>Management for Sustainable Development</li>
+ <li>Project Management Knowledge Areas</li>
 </ul>  
 
 <span style="font-size: 16px; line-height: normal;">
 Further, I have taken courses outside the university </span>
 <ul style="font-size: 16px;">
  <li>Gå-Före! (A leadership education for young leaders)</li>
- <li>TS1 (A 72-hour course given by the Swedish Handball Federation)</li>
+ <li>Trainer school 1 (A 72-hour course given by the Swedish Handball Federation)</li>
 </ul>  
