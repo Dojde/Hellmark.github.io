@@ -17,7 +17,7 @@ lab:
     - Ruby
     - Automation
 recording:
-  - title: "Recoriding software"
+  - title: "Video recoriding software"
     tags: 
     - Python
     - UI
