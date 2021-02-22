@@ -2,7 +2,5 @@ main:
   - title: Private Projects
     description: A collection of projects created by me. 
     url: /projects/
-  - title: Education
-    url: /education/
-  - title: Work Experience
-    url: /experience/
+  - title: Private Projects
+    url: /work-projects/
