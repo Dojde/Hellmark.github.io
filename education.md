@@ -8,7 +8,7 @@ author_profile: true
  
 <h2>Software</h2>
 <span style="font-size: 16px; line-height: normal;">
-Since software devlopment was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
+Since software development was a very small part of my course plan I often studied courses in software development in addition to the regular courses. I have taken software courses such as
 <ul style="font-size: 16px;">
  <li>Software Development for Large Systems</li>
  <li>Object-Oriented Modelling and Design  </li>
@@ -22,14 +22,14 @@ Since software devlopment was a very small part of my course plan I often studie
 
 <h2>Mathematics</h2>
 <span style="font-size: 16px; line-height: normal;">
-Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics. Example of courses in mathematics are
+Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master's  was mainly composed of courses in statistics. Example of courses in mathematics that I have taken are
 <ul style="font-size: 16px;">
  <li>Monte Carlo and empirical methods for stochastic inference </li>
  <li>Mathematical Statistics, Time Series Analysis  </li>
  <li>Stationary Stochastic Processes </li>
  <li>Analytic Functions  </li>
  <li>Calculus in One Variable </li>
- <li>Calculus in Serveral Variables </li>
+ <li>Calculus in Several Variables </li>
  <li>Statistics Basic Cous  </li>
  <li>Linear Algebra</li>
 </ul>  
@@ -37,7 +37,7 @@ Industrial Engineering is one of the engineering programs which requires most co
 
 <h2>Other</h2> 
 <span style="font-size: 16px; line-height: normal;">
-In addition to my degree in Industrial Engineering and Management I have read three courses at Lund University namely </span>
+In addition to my degree in Industrial Engineering and Management, I have read three courses at Lund University namely </span>
 <ul style="font-size: 16px;">
  <li>Project Management Knowledge Areas, 15 credits</li>
  <li>Internet Based Introduction to Law with Multimedia Lectures, 15 credits</li>
@@ -45,7 +45,7 @@ In addition to my degree in Industrial Engineering and Management I have read th
 </ul>  
 
 <span style="font-size: 16px; line-height: normal;">
-Further I have taken courses outside the university </span>
+Further, I have taken courses outside the university </span>
 <ul style="font-size: 16px;">
  <li>Gå-Före! (A leadership education for young leaders)</li>
  <li>TS1 (A 72-hour course given by the Swedish Handball Federation)</li>
