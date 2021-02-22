@@ -14,7 +14,7 @@ Since software devlopment was a very small part of my course plan I often studie
  <li>Object-Oriented Modelling and Design  </li>
  <li>Algorithms, Data Structures and Complexity  </li>
  <li>Real Time Programming </li>
- <li>Database technology   </li>
+ <li>Database Technology   </li>
  <li>Simulation  </li>
  <li>Configuration Management  </li>
  <li>Software Engineering - Methodology </li>
@@ -30,7 +30,6 @@ Industrial Engineering is one of the engineering programs which requires most co
  <li>Analytic Functions  </li>
  <li>Calculus in One Variable </li>
  <li>Calculus in Serveral Variables </li>
-
  <li>Statistics Basic Cous  </li>
  <li>Linear Algebra</li>
 </ul>  
