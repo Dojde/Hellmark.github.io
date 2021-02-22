@@ -30,7 +30,7 @@ sales:
 
 ---
 
-<p style="font-size: 18px;">On this page follows samples of projects of which I have completed as an employee .</p>
+<p style="font-size: 18px;">On this page follows samples of projects of which I have completed as an employee.</p>
 
 {% include content_row id="radar" %}
 <span style="font-size: 16px; line-height: normal;">
