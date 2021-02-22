@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /work-projects/
 layout: single
 class: wide
 author_profile: true
