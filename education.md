@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 --- 
 <h2>Formal degree (Januray 2022)</h2>
-<p style="font-size: 18px;">M.Sc. Industrial Engineering and Management.</p> 
+<p style="font-size: 18px;">M.Sc. Industrial Engineering and Management at LTH.</p> 
  
 <h2>Software</h2>
 <span style="font-size: 16px; line-height: normal;">
@@ -20,7 +20,7 @@ Since software devlopment was a very small part of my course plan I often studie
  <li>Software Engineering - Methodology </li>
 </ul>  
 
-## Mathematics
+<h2>Mathematics</h2>
 <span style="font-size: 16px; line-height: normal;">
 Industrial Engineering is one of the engineering programs which requires most courses on the subject of mathematics. Additionally, my master was mainly composed of courses in statitics. Example of courses in mathematics are
 <ul style="font-size: 16px;">
@@ -35,7 +35,7 @@ Industrial Engineering is one of the engineering programs which requires most co
 </ul>  
 
 
-## Other 
+<h2>Other</h2> 
 <span style="font-size: 16px; line-height: normal;">
 In addition to my degree in Industrial Engineering and Management I have read three courses at Lund University namely </span>
 <ul style="font-size: 16px;">
