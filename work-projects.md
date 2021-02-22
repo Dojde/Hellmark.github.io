@@ -41,7 +41,7 @@ The system was mainly composed of a step motor and a spectrum analyzer. A user i
 
 {% include content_row id="sales" %}
 <span style="font-size: 16px; line-height: normal;">
-Together with a co-worker, I performed a comparative study with the purpose of explaining differences in sales. We analyzed products from aspects such as value to a segment, price, placement in portfolio and more. This was a perfect opportunity to use my broad set of skills and analyze the situation both from a technical, marketing and psychological perspective. The final work was very well received and praised by multiple of the engineers at Axis. 
+Together with a co-worker, I performed a comparative study with the purpose of explaining differences in sales. We analyzed products from aspects such as value to a segment, price, placement in portfolio and more. This was a perfect opportunity to use my broad set of skills and analyze the situation both from a technical, marketing and psychological perspective. The final work was very well received and praised by multiple of the engineers at Axis Communications. 
 </span>
 
 {% include content_row id="lab" %}
