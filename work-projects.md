@@ -7,20 +7,20 @@ radar:
   - title: "Radar measurements"
     tags: 
     - Pyhton
+    - UI
     - Step motor
     - Spectrum analyzer
-    - UI
-
 lab: 
   - title: "Lab system"
     tags: 
-    - Ruby
-    - Automation
+    - Ruby, Automation
+
 recording:
   - title: "Video recoriding software"
     tags: 
     - Python
     - UI
+    - Automation
 sales:
   - title: "Comparative study"
     tags: 
