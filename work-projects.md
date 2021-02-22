@@ -30,7 +30,9 @@ sales:
 
 ---
 
-<p style="font-size: 18px;">On this page follows samples of projects of which I have completed as an employee.</p>
+<div style="text-align:center; margin-top:20px">
+  <p style="font-size:36px; font-style:italic;">"Don't be busy, be productive."</p>
+</div>
 
 {% include content_row id="radar" %}
 <span style="font-size: 16px; line-height: normal;">
