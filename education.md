@@ -9,7 +9,7 @@ author_profile: true
 <span style="font-size: 16px; line-height: normal;">
 
 <h2>Master's Thesis</h2>
-My master's thesis is performed at [Iternio](https://iternio.com/) and investigates the vehicle routing problem, which is a generalization of the traveling salesman problem. The vehicle routing problem is an combinatorial optimization and integer programming problem. In my work I have developed a framework which allows one to easily change algroithms and analyze, compare and disply obtained solutions. The basic structure of the framework is displayed in the image below. 
+My master's thesis is performed at [Iternio](https://iternio.com/) and investigates the vehicle routing problem, which is a generalization of the traveling salesman problem. The vehicle routing problem is an combinatorial optimization and integer programming problem. In my work I have developed a framework which allows one to easily change algroithms and analyze, compare and disply obtained solutions.
  
  
  
