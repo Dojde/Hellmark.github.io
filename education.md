@@ -4,8 +4,17 @@ layout: single
 author_profile: true
 --- 
 <h2>Formal degree (December 2021)</h2>
-<p style="font-size: 24px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University.
-<p style="font-size: 18px;">Specialization: Financial Engineering and Risk Management</p> </p> 
+<p style="font-size: 18px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University.
+<p style="font-size: 14px;">Specialization: Financial Engineering and Risk Management</p> </p> 
+<span style="font-size: 16px; line-height: normal;">
+
+<h2>Master's Thesis</h2>
+My master's thesis is performed at [Iternio](https://iternio.com/) and investigates the vehicle routing problem, which is a generalization of the traveling salesman problem. The vehicle routing problem is an combinatorial optimization and integer programming problem. In my work I have developed a framework which allows one to easily change algroithms and analyze, compare and disply obtained solutions. The basic structure of the framework is displayed in the image below. 
+ 
+ 
+ 
+ 
+ <span style="font-size: 16px; line-height: normal;">
 
  
 <h2>Software</h2>
