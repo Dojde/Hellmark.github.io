@@ -9,10 +9,7 @@ author_profile: true
 <span style="font-size: 16px; line-height: normal;">
 
 <h2>Master's Thesis</h2>
-My master's thesis is performed at [Iternio](https://iternio.com/) and investigates the vehicle routing problem, which is a generalization of the traveling salesman problem. The vehicle routing problem is an combinatorial optimization and integer programming problem. In my work I have developed a framework which allows one to easily change algroithms and analyze, compare and disply obtained solutions.
- 
- 
- 
+My master's thesis is performed at [Iternio](https://iternio.com/) and investigates the vehicle routing problem, which is a generalization of the traveling salesman problem. The vehicle routing problem is a combinatorial optimization and integer programming problem. In my work I have developed a framework that allows one to easily change algorithms and analyze, compare and display obtained solutions. It covers topics such as dynamic and robust optimization. To solve the problems I use metaheuristic algorithms such as ant colony optimization and iterative local search. The objective function can be individually specified for each dataset to ensure a high degree of flexibility. Multiple versions of the E-VRP are supported, for example with time-windows and multiple depots. To display the results dash was used to create an interactive dashboard. If coordinates or addresses are supplied real-world data will be used to compute fuel consumption and travel time. The exact path to be chosen can thereafter be plotted on a street map. The framework is written in python using libraries such as numpy, pandas and numba. 
  
  <span style="font-size: 16px; line-height: normal;">
 
