@@ -4,8 +4,8 @@ layout: single
 author_profile: true
 --- 
 <h2>Formal degree (December 2021)</h2>
-<p style="font-size: 18px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University.
-<p style="font-size: 14px;">Specialization: Financial Engineering and Risk Management</p> </p> 
+<p style="font-size: 16px;">M.Sc. Industrial Engineering and Management at the Faculty of Engineering, Lund University.
+<p style="font-size: 16px;">Specialization: Financial Engineering and Risk Management</p> </p> 
 
 <h2>Master's Thesis</h2> 
 <span style="font-size: 16px; line-height: normal;">
