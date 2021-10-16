@@ -9,7 +9,7 @@ classes: wide
     <p style="font-size: 40px; font-style:italic;"><q>A driven engineer with a focus on software, mathematics and management.</q></p> 
   </div>
   <div style="flex: 1;">    
-    <img src="assets/images/IMG_4241 2.jpeg" style="width:100%; height: 500px; object-fit: margin-top:100px;">
+    <img src="assets/images/IMG_4241 2.jpeg" style="width:100%; height: 500px; object-fit: cover; margin-top:100px;">
   </div>
 </div>
 
